@@ -1,2 +1,3 @@
-export { default } from './useFormSliderfield';
-export * from './useFormSliderfield';
+import View from './view';
+
+export default View;
